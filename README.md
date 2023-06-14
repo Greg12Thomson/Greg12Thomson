@@ -1,6 +1,6 @@
-### Hi 👋 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+### HELLO THERE 👋 🏴󠁧󠁢󠁳󠁣󠁴󠁿, I'M
 
-I’m Greg and I'm a software engineer @ Amazon
+Greg and I'm a software engineer @ Amazon
 
 I keep my personal repositories here.
 
