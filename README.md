@@ -1,8 +1,8 @@
-### HELLO THERE 👋 🏴󠁧󠁢󠁳󠁣󠁴󠁿, I'M
+### HELLO THERE 👋 🏴󠁧󠁢󠁳󠁣󠁴󠁿, I'M GREG
 
-Greg and I'm a software engineer @ Amazon
+I am a full-stack software engineer with 5+ years of professional experience. Ex Amazon and AWS.
 
-I keep my personal repositories here.
+I keep my personal repositories here 👇
 
 
 <!---
