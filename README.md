@@ -1,6 +1,6 @@
 ### HELLO THERE 👋 🏴󠁧󠁢󠁳󠁣󠁴󠁿, I'M GREG
 
-I am a full-stack software engineer with 5+ years of professional experience. Ex Amazon and AWS.
+I am a full-stack software engineer with 7+ years of professional experience. Ex Amazon, AWS and PetsApp.
 
 I keep my personal repositories here 👇
 
